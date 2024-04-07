@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Waxablesss
+- 👋 Hi, I’m @WVVZ
 - 👀 I’m interested in Dev
 - 🌱 I’m currently learning English
-- 💞️ I’m looking to collaborate on A Big Project
-- 📫 How to reach me Idk
+- 💞️ I’m looking to collaborate on Nothing
+- 📫 How to reach me : you can't 
 
 <!---
 Waxablesss/Waxablesss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
